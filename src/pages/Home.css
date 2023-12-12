@@ -1,0 +1,13 @@
+body {
+    background: #F4F5F5;
+}
+
+.input {
+    -webkit-app-region: no-drag;
+    box-shadow: 1px 2px 3px rgba(238, 238, 238, 0.5);
+}
+
+/* 隐藏滚动条（适用于Chrome、Safari和新版Edge）*/
+.listContainer::-webkit-scrollbar {
+    width: 0; 
+}

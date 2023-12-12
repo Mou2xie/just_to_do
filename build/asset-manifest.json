@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.401d0301.css",
+    "main.js": "./static/js/main.199fb7f6.js",
+    "static/js/787.192f582d.chunk.js": "./static/js/787.192f582d.chunk.js",
+    "static/media/delete.svg": "./static/media/delete.7217cdd24e2d8eab3852361cca7cb13d.svg",
+    "static/media/delete_hover.svg": "./static/media/delete_hover.68078a8d32c964c08bd8397c32127546.svg",
+    "static/media/coffee.svg": "./static/media/coffee.e81e54517db94e8a948821f52858d512.svg",
+    "static/media/top.svg": "./static/media/top.4b3713881bab0a71d7a93dd00557d383.svg",
+    "static/media/top_hover.svg": "./static/media/top_hover.99fd484142b1a13974f744ff25898192.svg",
+    "index.html": "./index.html",
+    "static/media/add.svg": "./static/media/add.4afd1d2016cb6ff36b46c2fd2eb04d30.svg",
+    "static/media/add_hover.svg": "./static/media/add_hover.b65257c4d28b4fc67a75afd72df5aff3.svg",
+    "main.401d0301.css.map": "./static/css/main.401d0301.css.map",
+    "main.199fb7f6.js.map": "./static/js/main.199fb7f6.js.map",
+    "787.192f582d.chunk.js.map": "./static/js/787.192f582d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.401d0301.css",
+    "static/js/main.199fb7f6.js"
+  ]
+}
